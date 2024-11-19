@@ -1,2 +1,2 @@
-# TheLanternCodeSamples
-Some code samples from a Unity student project
+# The Lantern: Code Samples
+Code samples of mine for a semester-long student project developed in Unity Engine
